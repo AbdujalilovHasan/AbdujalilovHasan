@@ -2,4 +2,4 @@
 - 👀 I’m interested in ReactJS
 - 🌱 I’m currently learning Frontned ReactJS
 - 📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasan-abdujalilov/)
-- 📮 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/hasanblogIT)  
+- 📮 [![Telegram](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram)](https://t.me/hasanblogIT)  
