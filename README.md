@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbdujalilovHasan
 - 👀 I’m interested in ReactJS
 - 🌱 I’m currently learning Frontned ReactJS
-- 📫 How to reach me [![LinkedIn](https://www.linkedin.com/in/hasan-abdujalilov/)](https://www.linkedin.com/in/hasan-abdujalilov/)
-- 📮 Channel: [https://t.me/hasanblogIT](https://t.me/hasanblogIT)  
-- 
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/username/)
+- 📮 Channel: [![Telegram](https://t.me/hasanblogIT)](https://t.me/hasanblogIT)  
