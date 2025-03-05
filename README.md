@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanabdujalilov&label=Profile%20views&color=0e75b6&style=flat" alt="hasanabdujalilov" /> </p>
 
-- 🔭 I’m currently working on [Sara web-app](https://sara-web-app.vercel.app/)
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **ReactJs**
